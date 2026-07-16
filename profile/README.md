@@ -15,8 +15,8 @@
 ### Zed
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/dark1.webp" width="49%" alt="Solace Dark 1"/>
-  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/dark2.webp" width="49%" alt="Solace Dark 2"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/dark1.webp" width="49%" alt="Solace Dark"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/light1.webp" width="49%" alt="Solace Light"/>
 </p>
 
 ### Obsidian
