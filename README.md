@@ -1,1 +1,39 @@
-# .github
+<h1 align="center">Solace Theme</h1>
+
+<p align="center">A minimalistic theme family with violet accents and pastel syntax, built for calm, focused work.</p>
+
+<p align="center">
+  <a href="https://github.com/Solace-Theme/Solace/stargazers"><img src="https://img.shields.io/github/stars/Solace-Theme/Solace?style=for-the-badge&color=16141F&labelColor=C9A8FF&label=STARS&logo=star&logoColor=C9A8FF" alt="Stars"></a>
+  <a href="https://github.com/Solace-Theme/Solace/releases/latest"><img src="https://img.shields.io/github/v/release/Solace-Theme/Solace?style=for-the-badge&color=16141F&labelColor=C9A8FF&label=RELEASE&logo=tag&logoColor=C9A8FF" alt="Release"></a>
+  <a href="https://github.com/Solace-Theme/Solace/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Solace-Theme/Solace?style=for-the-badge&color=16141F&labelColor=C9A8FF&label=LICENSE&logo=open-source-initiative&logoColor=C9A8FF" alt="License"></a>
+</p>
+
+---
+
+## Preview
+
+### Zed
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/dark1.webp" width="49%" alt="Solace Dark 1"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/Solace/master/preview/dark2.webp" width="49%" alt="Solace Dark 2"/>
+</p>
+
+### Obsidian
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/dark.png" width="49%" alt="Obsidian Dark"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/light.png" width="49%" alt="Obsidian Light"/>
+</p>
+
+---
+
+## Ports
+
+| Port     | Status  | Variants    | Link                                            |
+| -------- | ------- | ----------- | ----------------------------------------------- |
+| Zed      | Active  | Dark, Light | https://github.com/Solace-Theme/Solace          |
+| Obsidian | Active  | Dark, Light | https://github.com/Solace-Theme/solace-obsidian |
+| VSCode   | Planned |             |                                                 |
+| Zen      | Planned |             |                                                 |
+| OpenCode | Planned |             |                                                 |
