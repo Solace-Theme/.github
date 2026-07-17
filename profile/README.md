@@ -22,8 +22,9 @@
 ### Obsidian
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/dark.png" width="49%" alt="Obsidian Dark"/>
-  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/light.png" width="49%" alt="Obsidian Light"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/dark-theme.png" width="33%" alt="Obsidian Dark"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/light-theme.png" width="33%" alt="Obsidian Light"/>
+  <img src="https://raw.githubusercontent.com/Solace-Theme/solace-obsidian/master/preview/dusk-theme.png" width="33%" alt="Obsidian Dusk"/>
 </p>
 
 ---
